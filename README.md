@@ -34,9 +34,9 @@ I build production-grade systems with security and intelligence at their core:
 ### 🏗️ Fullstack Engineering
 | Project | Tech | Impact |
 | :--- | :--- | :--- |
-| **NairaSwift** | Next.js, Fintech | Bank-grade global remittance platform with multi-layer RBAC. |
-| **OmniLocal** | Next.js 14, SaaS | Enterprise commerce orchestration with Sentry & Supabase. |
-| **Agentic-Sales** | React, AI Agents | Autonomous sales pipeline orchestration engine. |
+| **NairaSwift** | Next.js, Fintech | [Private] Bank-grade global remittance platform. |
+| **OmniLocal** | Next.js 14, SaaS | [Private] Enterprise commerce orchestration. |
+| **Agentic-Sales** | React, AI Agents | [Private] Autonomous sales pipeline orchestration. |
 
 ---
 
